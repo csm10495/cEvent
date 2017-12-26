@@ -1,0 +1,6 @@
+*.pyc
+crrunner.egg-info/**
+dist/**
+.cache/*
+**/*.vs/*
+.vscode/**
